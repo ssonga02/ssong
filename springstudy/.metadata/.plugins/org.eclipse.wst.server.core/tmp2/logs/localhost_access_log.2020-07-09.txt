@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:45:03 +0900] "GET /board/list?pageNum=51&amount=10 HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:45:04 +0900] "GET /board/list?pageNum=51&amount=10 HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:45:09 +0900] "GET /board/list HTTP/1.1" 404 721
+127.0.0.1 - - [09/Jul/2020:00:45:39 +0900] "GET / HTTP/1.1" 200 164
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:45:52 +0900] "GET /board/list HTTP/1.1" 200 32700
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:45:52 +0900] "GET /resources/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:46:22 +0900] "GET /board/list?type=&keyword=%EC%83%88%EC%9E%90&pageNum=1&amount=10 HTTP/1.1" 200 32700
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:46:23 +0900] "GET /resources/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:46:57 +0900] "GET /board/list?type=T&keyword=%EC%83%88%EC%9E%90&pageNum=1&amount=10 HTTP/1.1" 200 28374
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:00:46:57 +0900] "GET /resources/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 721
